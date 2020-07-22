@@ -1,6 +1,6 @@
 import React from "react";
 import ScrollAnimation from "react-animate-on-scroll";
-import img from "./assets/Contact-Me1.jpg";
+import img from "./assets/Contact-Me3.gif";
 function ContactPage() {
   const imgStyle = { width: "100%", height: "80vh", objectFit: "cover" };
   return (
