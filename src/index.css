@@ -108,3 +108,77 @@ img {
 .myBtn:active {
   filter: drop-shadow(0px 0px 0px #1a172500);
 }
+
+.aboutMe {
+  height: 75vh;
+  background: #221b30;
+  margin: 80px auto;
+  padding: 50px 100px;
+  border-radius: 10px;
+  filter: drop-shadow(0px 0px 8px #1a1725);
+}
+
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+.mySocialLink {
+  padding: 10px;
+  margin: 10px;
+}
+.mySocialLink:hover {
+  color: #2a253e;
+}
+.textRight {
+  padding: 50px;
+  background: black;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+.myBox {
+  padding-top: 80px;
+  min-height: 90vh;
+  /* border: 1px solid white; */
+}
+.myMy {
+  background: white;
+  padding: 18px 5px;
+  border-radius: 5px;
+}
+.contactMe {
+  color: rgb(39, 39, 39);
+  background: white;
+}
+
+@keyframes bob {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(-45deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  75% {
+    transform: rotate(45deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+.socialBar {
+  height: 15vh;
+}
+.socialLinks {
+  padding: 10px;
+  transition: ease all 0.3s;
+}
+.socialLinks:hover {
+  color: rgb(39, 39, 39);
+  font-size: 1.5rem;
+  animation: bob 0.8s linear 1;
+}
