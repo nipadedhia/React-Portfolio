@@ -13,7 +13,7 @@ function HomePage() {
           <div class="heroContext text-left">
             <h1 class="display-4 heroHead">NIPA DEDHIA</h1>
             <div class="d-flex justify-content-start mt-4">
-              <p class="heroSubTxt">A Full Stack Web Developer.</p>
+              <p class="heroSubTxt">A Full Stack Web Developer</p>
             </div>
             <div class="d-flex justify-content-start mt-4">
               <div class="myBtn text-center" onClick={executeScroll}>
