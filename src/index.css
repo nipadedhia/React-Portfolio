@@ -48,6 +48,35 @@ code {
   font-style: italic;
 }
 
+.navBar {
+  width: 60%;
+  margin: 0 auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.nav-item a {
+  color: white;
+  border-radius: 30px;
+  padding: 15px 45px;
+  transition: ease all 0.5s;
+}
+.nav-item a:hover {
+  background: #2a253e;
+  color: white;
+}
+
 img {
   width: 100%;
 }
