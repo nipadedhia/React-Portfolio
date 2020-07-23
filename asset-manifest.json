@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0b01321b.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.6f50126c.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.6f50126c.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.27e0f504.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.27e0f504.js.map",
+    "static/js/2.d300bf37.chunk.js": "/React-Portfolio/static/js/2.d300bf37.chunk.js",
+    "static/js/2.d300bf37.chunk.js.map": "/React-Portfolio/static/js/2.d300bf37.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.e2023e957b858a5f0951977aa61a8ebc.js": "/React-Portfolio/precache-manifest.e2023e957b858a5f0951977aa61a8ebc.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.0b01321b.chunk.css.map": "/React-Portfolio/static/css/main.0b01321b.chunk.css.map",
+    "static/js/2.d300bf37.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d300bf37.chunk.js.LICENSE.txt",
+    "static/media/43069.jpg": "/React-Portfolio/static/media/43069.a30405aa.jpg",
+    "static/media/Contact-Me3.gif": "/React-Portfolio/static/media/Contact-Me3.2d2a5a15.gif",
+    "static/media/Eat-Da-Burger.PNG": "/React-Portfolio/static/media/Eat-Da-Burger.03be180d.PNG",
+    "static/media/Quarantine-Meals.PNG": "/React-Portfolio/static/media/Quarantine-Meals.607bf5ab.PNG",
+    "static/media/WeatherApp.PNG": "/React-Portfolio/static/media/WeatherApp.99ca37e2.PNG",
+    "static/media/Write-It-Out.png": "/React-Portfolio/static/media/Write-It-Out.0250fd77.png",
+    "static/media/index.css": "/React-Portfolio/static/media/background2.0efacf49.png",
+    "static/media/myProfile.jpg": "/React-Portfolio/static/media/myProfile.0d559245.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27e0f504.js",
+    "static/js/2.d300bf37.chunk.js",
+    "static/css/main.0b01321b.chunk.css",
+    "static/js/main.6f50126c.chunk.js"
+  ]
+}
