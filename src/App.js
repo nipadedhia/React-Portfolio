@@ -16,8 +16,11 @@ function App() {
             // exact
             // path={["/", "/about", "/react_portfolio"]}
             // component={HomePage}
+            // exact
+            // path={[`${process.env.PUBLIC_URL}/`, "/about", "/react_portfolio"]}
+            // component={HomePage}
             exact
-            path={[`${process.env.PUBLIC_URL}/`, "/about", "/react_portfolio"]}
+            path={process.env.PUBLIC_URL + "/"}
             component={HomePage}
           />
           <Route exact path="/ProjectPage" component={ProjectPage} />
