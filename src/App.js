@@ -13,15 +13,15 @@ function App() {
         <NavBar />
         <div class="">
           <Route
-            // exact
-            // path={["/", "/about", "/react_portfolio"]}
-            // component={HomePage}
+            exact
+            path={["/", "/about", "/react_portfolio"]}
+            component={HomePage}
             // exact
             // path={[`${process.env.PUBLIC_URL}/`, "/about", "/react_portfolio"]}
             // component={HomePage}
-            exact
-            path={process.env.PUBLIC_URL + "/"}
-            component={HomePage}
+            // exact
+            // path={process.env.PUBLIC_URL + "/about"}
+            // component={HomePage}
           />
           <Route exact path="/ProjectPage" component={ProjectPage} />
           <Route exact path="/ContactPage" component={ContactPage} />
